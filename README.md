@@ -186,11 +186,8 @@ Evaluation Metrics:
 
 # 📸 Dashboard Preview
 
-```markdown
-![Dashboard](Dashboard.png)
-```
+![Customer Churn Dashboard](Dashboard.png)
 
----
 
 # 🎯 Learning Outcomes
 
