@@ -20,12 +20,12 @@ The project covers the complete analytics workflow:
 ---
 
 ## 📂 Project Structure
-
-```text
+**
 Customer-Churn-Analysis/
 │
 ├── Dataset/
-│   └── Customer_Churn.csv
+│   ├── Customer_Churn.csv
+│   └── Customer_Churn_Cleaned.csv
 │
 ├── SQL/
 │   ├── 01_Data_Exploration.sql
@@ -36,16 +36,15 @@ Customer-Churn-Analysis/
 ├── Python/
 │   ├── 01_Data_Cleaning.ipynb
 │   ├── 02_Exploratory_Data_Analysis.ipynb
-│   └── 03_Machine_Learning.ipynb
+│   ├── 03_Machine_Learning.ipynb
+│   └── 04_Project_Conclusion.ipynb
 │
 ├── Power BI/
 │   ├── Customer_Churn_Dashboard.pbix
+│   ├── Customer_Churn_Dashboard.pdf
 │   └── Dashboard.png
 │
 └── README.md
-```
-
----
 
 ## 🛠️ Tech Stack
 
