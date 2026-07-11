@@ -186,17 +186,8 @@ Evaluation Metrics:
 
 # 📸 Dashboard Preview
 
-> **Add your dashboard screenshot here**
-
-```
-Power BI/
-└── Dashboard.png
-```
-
-Example:
-
 ```markdown
-![Dashboard](Power%20BI/Dashboard.png)
+![Dashboard](Dashboard.png)
 ```
 
 ---
