@@ -206,8 +206,8 @@ Through this project, I gained practical experience in:
 
 **Akanksha Kumari**
 
-- 💼 LinkedIn: *Add your LinkedIn profile*
-- 💻 GitHub: *Add your GitHub profile*
+- 💼 LinkedIn: *https://linkedin.com/in/akanksha-kumari-1a0222289*
+- 💻 GitHub: *https://github.com/Akanksha265*
 
 ---
 
