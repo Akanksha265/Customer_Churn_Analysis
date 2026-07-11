@@ -18,9 +18,9 @@ The project covers the complete analytics workflow:
 - Business Insights & Recommendations
 
 ---
-
 ## 📂 Project Structure
-**
+
+```text
 Customer-Churn-Analysis/
 │
 ├── Dataset/
@@ -45,6 +45,7 @@ Customer-Churn-Analysis/
 │   └── Dashboard.png
 │
 └── README.md
+```
 
 ## 🛠️ Tech Stack
 
